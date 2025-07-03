@@ -24,5 +24,5 @@ Technologies Used:
 - Command-line access  
 
 ### Compile and Run
-javac Calculator.java
+javac Calculator.java 
 java Calculator
