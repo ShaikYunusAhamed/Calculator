@@ -10,6 +10,7 @@ Which can perform:
 - Power
 
 Features:
+
 ✔ Basic arithmetic (add, subtract, multiply, divide)  
 ✔ Square root  
 ✔ Power (x^y)  
